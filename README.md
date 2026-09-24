@@ -1,0 +1,1 @@
+# SOC-triage-checklist-for-Microsoft-Sentinel-Microsoft-Defender-KQL-starter-pack-
