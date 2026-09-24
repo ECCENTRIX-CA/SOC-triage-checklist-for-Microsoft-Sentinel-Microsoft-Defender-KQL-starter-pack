@@ -317,9 +317,9 @@ If you only remember one section, use this:
 If your team is building repeatable SOC triage and response workflows with Microsoft tooling, consider the [SC-200 (Security Operations Analyst)](https://www.eccentrix.ca/en/courses/microsoft/security/microsoft-certified-security-operations-analyst-associate-sc200/) training for Sentinel, Defender detection, investigation, response and/or the [SC-300 (Identity & Access Administrator)](https://www.eccentrix.ca/en/courses/microsoft/security/microsoft-certified-identity-and-access-administrator-associate-sc300/) training for Conditional Access and identity controls that prevent repeat incidents.
 
 ## Related readings
-[Microsoft Sentinel KQL: A Practical Introduction for Threat Hunting](https://www.eccentrix.ca/en/eccentrix-corner/microsoft-sentinel-kql)
-[Threat Intelligence Platform: How Modern Organizations Stay Ahead of Cyber Threats](https://github.com/ECCENTRIX-CA/Threat-Intelligence-Platform-How-Modern-Organizations-Stay-Ahead-of-Cyber-Threats)
-[Understanding the Cyber Kill Chain](https://github.com/ECCENTRIX-CA/Understanding-the-Cyber-Kill-Chain)
+- [Microsoft Sentinel KQL: A Practical Introduction for Threat Hunting](https://www.eccentrix.ca/en/eccentrix-corner/microsoft-sentinel-kql)
+- [Threat Intelligence Platform: How Modern Organizations Stay Ahead of Cyber Threats](https://github.com/ECCENTRIX-CA/Threat-Intelligence-Platform-How-Modern-Organizations-Stay-Ahead-of-Cyber-Threats)
+- [Understanding the Cyber Kill Chain](https://github.com/ECCENTRIX-CA/Understanding-the-Cyber-Kill-Chain)
 
 ## License / usage
 Use and adapt freely for internal SOC operations. If you publish a derivative, keep the structure and improve it, your future incident responders will thank you.
